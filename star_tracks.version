@@ -1,9 +1,9 @@
 {
-    "masterVersionFile":"https://bitbucket.org/DarkRevenant/audio-plus/downloads/audioplus.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/star_tracks.version",
     "modName":"Star-Tracks",
-    #"modThreadId":10985,
-    "directDownloadURL": "https://bitbucket.org/DarkRevenant/audio-plus/downloads/Audio_Plus_1.2.3.7z",
-    "changelogURL":"https://bitbucket.org/DarkRevenant/audio-plus/downloads/change_log.txt",
+    #"modThreadId":0,
+    "directDownloadURL": "https://github.com/i-Echelon/Star-Tracks/archive/refs/heads/main.zip",
+    "changelogURL":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/changelog.txt,
     "modVersion":
     {
         "major":1,
