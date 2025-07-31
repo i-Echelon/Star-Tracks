@@ -1,7 +1,7 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/star-tracks.version",
     "modName":"Star-Tracks",
-    #"modThreadId":0,
+    "modThreadId":0,
     "directDownloadURL":"https://github.com/i-Echelon/Star-Tracks/archive/refs/heads/main.zip",
     "changelogURL":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/changelog.txt",
     "modVersion":
