@@ -1,0 +1,12 @@
+{
+    "music":{
+		"music_title":[
+			{"file":"Starboy.ogg","source":"sounds/tracks","volume":0.25},
+		],
+		#"music_survey_and_scavenge":[],
+        #"music_campaign":[],
+        #"music_campaign_non_core":[],
+        #"music_campaign_hyperspace":[],
+        #"music_combat":[],
+    },
+}
