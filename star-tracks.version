@@ -3,11 +3,11 @@
     "modName":"Star-Tracks",
     #"modThreadId":0,
     "directDownloadURL": "https://github.com/i-Echelon/Star-Tracks/archive/refs/heads/main.zip",
-    "changelogURL":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/changelog.txt,
+    "changelogURL":"https://raw.githubusercontent.com/i-Echelon/Star-Tracks/refs/heads/main/changelog.txt",
     "modVersion":
     {
         "major":1,
         "minor":0,
-        "patch":0
+        "patch":1
     },
 }
