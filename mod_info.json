@@ -1,9 +1,9 @@
 {
     "id": "star-tracks",
     "name": "Star-Tracks",
-    "author": "Echelon",
+    "author": "Bugatti Echelon",
     "utility": "true",
-    "version": "1.0.2",
+    "version": "2.1.0",
     "description": "Simple custom music tracks loader for main menu or more.",
     "gameVersion": "0.98a-RC8"
 }
