@@ -1,14 +1,67 @@
 {
     "music":{
-		"music_title":[
-			{"file":"Starboy.ogg","source":"sounds/tracks","volume":0.25},
-			{"file":"DopeNinjas.ogg","source":"sounds/tracks","volume":0.25},
-			{"file":"Streets.ogg","source":"sounds/tracks","volume":0.25},
+		#"music_title":[
+			#{"file":"Dope.ogg","source":"sounds/tracks","volume":0.25},
+			#{"file":"Starboy.ogg","source":"sounds/tracks","volume":0.25},
+			#{"file":"Streets.ogg","source":"sounds/tracks","volume":0.25},
+		#],
+		"music_echelon_market_neutral":[
+			{"file":"ExigencyMarketNeutral.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedMarketNeutral.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_market.ogg","source":"sounds/factions","volume":0.25,"randomStart":true},
 		],
+		"music_echelon_market_hostile":[
+			{"file":"ExigencyMarketHostile.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedMarketHostile.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_hostile.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+		],
+		"music_echelon_market_friendly":[
+			{"file":"ExigencyMarketFriendly.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedMarketFriendly.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_friendly.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+		],
+		"music_echelon_encounter_neutral":[
+			{"file":"ExigencyFleetNeutral.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedFleetNeutral.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_neutral.ogg","source":"sounds/factions","volume":0.25,"randomStart":true},
+		],
+		"music_echelon_encounter_hostile":[
+			{"file":"ExigencyFleetHostile.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedFleetHostile.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_hostile.ogg","source":"sounds/factions","volume":0.25,"randomStart":true},
+		],
+		"music_echelon_encounter_friendly":[
+			{"file":"ExigencyFleetFriendly.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"ExipiratedFleetFriendly.ogg","source":"sounds/factions","volume":0.22,"randomStart":true},
+			{"file":"metelson_friendly.ogg","source":"sounds/factions","volume":0.25,"randomStart":true},
+		],
+		"music_campaign":[
+			{"file":"FearMachine.ogg","source":"sounds/campaign","volume":0.23},
+			{"file":"StellarRemnant.ogg","source":"sounds/campaign","volume":0.21},
+			{"file":"DysonSphere.ogg","source":"sounds/campaign","volume":0.60},
+			{"file":"Spacer20Seconds.ogg","source":"sounds/campaign","volume":1.0},
+			{"file":"HostileWaters.ogg","source":"sounds/campaign","volume":0.29},
+			{"file":"Ambush.ogg","source":"sounds/campaign","volume":0.23},
+			{"file":"Mobilization.ogg","source":"sounds/campaign","volume":0.20},
+			{"file":"Unknown.ogg","source":"sounds/campaign","volume":0.50},
+			{"file":"Desolation.ogg","source":"sounds/campaign","volume":0.20},
+			{"file":"Sovereignty.ogg","source":"sounds/campaign","volume":0.18},
+		],
+		"music_campaign_hyperspace":[
+			{"file":"FearMachine.ogg","source":"sounds/campaign","volume":0.18},
+			{"file":"StellarRemnant.ogg","source":"sounds//campaign","volume":0.16},
+			{"file":"DysonSphere.ogg","source":"sounds//campaign","volume":0.50},
+			{"file":"Spacer20Seconds.ogg","source":"sounds/campaign","volume":0.8},
+			{"file":"HostileWaters.ogg","source":"sounds/campaign","volume":0.24},
+			{"file":"Ambush.ogg","source":"sounds/campaign","volume":0.18},
+			{"file":"Mobilization.ogg","source":"sounds/campaign","volume":0.15},
+			{"file":"Unknown.ogg","source":"sounds/campaign","volume":0.40},
+			{"file":"Desolation.ogg","source":"sounds/campaign","volume":0.15},
+			{"file":"Sovereignty.ogg","source":"sounds/campaign","volume":0.13},
+		],
+
 		#"music_survey_and_scavenge":[],
-        #"music_campaign":[],
         #"music_campaign_non_core":[],
-        #"music_campaign_hyperspace":[],
         #"music_combat":[],
     },
 }
